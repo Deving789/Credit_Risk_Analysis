@@ -6,7 +6,7 @@ Credit risk is very tough to predict. In this project we want to take a look at 
 
 ## Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
-- 
+- Naive Random Oversampling results: 
 -
 -
 
